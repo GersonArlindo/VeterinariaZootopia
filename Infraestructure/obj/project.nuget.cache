@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cOGmGEF1npqKuwpUz1BAYACb31xAHh4GUkCXLhyQOFGe2bAht8ja0l8I9i7VKOIcKXnfA2wjb4ix4GH5Oh5SqA==",
+  "dgSpecHash": "sa2GSQBg1rj5QUE3qvyEnE5xofqu00oGEuqRfhthKs4V+TKjnmidIR36FQ8/XI+MQZqXbDD5J044BphCoEMgrw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Gerson Arlindo\\Desktop\\Proyecto_Veterinaria_PDWA\\CleanArchitectureTemplate\\Infraestructure\\Infraestructure.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,8 @@
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\ardalis.specification.entityframeworkcore\\5.0.3\\ardalis.specification.entityframeworkcore.5.0.3.nupkg.sha512",
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\awssdk.core\\3.7.0.12\\awssdk.core.3.7.0.12.nupkg.sha512",
+    "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\awssdk.s3\\3.7.0.13\\awssdk.s3.3.7.0.13.nupkg.sha512",
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\fluentvalidation\\9.5.3\\fluentvalidation.9.5.3.nupkg.sha512",
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.5.3\\fluentvalidation.aspnetcore.9.5.3.nupkg.sha512",
     "C:\\Users\\Gerson Arlindo\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.5.3\\fluentvalidation.dependencyinjectionextensions.9.5.3.nupkg.sha512",

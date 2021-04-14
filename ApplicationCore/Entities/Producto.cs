@@ -12,6 +12,10 @@ namespace ApplicationCore.Entities
         public Tipo Tipo { get; set; }
         public decimal Precio { get; set; }
         public string Imagen { get; set; }
+        public string NombreImagen() 
+        {
+            return Nombre + '-' + Guid.NewGuid().ToString();
+        }
 
     }
 }

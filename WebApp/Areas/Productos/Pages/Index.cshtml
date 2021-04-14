@@ -85,23 +85,26 @@
                     {
                         @foreach (var item in Model.Productos)
                         {
-                            <tr>
+                    <tr>
 
-                                <td>@item.Codigo</td>
-                                <td>@item.Nombre</td>
-                                <td>@item.Descripcion</td>
-                                <td>@item.Tipo</td>
-                                <td>@item.Precio</td>
-                                <td>@item.Imagen</td>
-                                <td style="width: 20%;" class="text-center">
-                                    <a class="btn btn-info btn-sm" asp-area="Productos" asp-page="Edit" asp-route-id="@item.Id">
-                                        <i class="fas fa-pencil-alt"></i>
-                                    </a>
-                                    <a class="btn btn-danger btn-sm" asp-area="Productos" asp-page="Delete" asp-route-id="@item.Id">
-                                        <i class="far fa-trash-alt"></i>
-                                    </a>
-                                </td>
-                            </tr>
+                        <td>@item.Codigo</td>
+                        <td>@item.Nombre</td>
+                        <td>@item.Descripcion</td>
+                        <td>@item.Tipo</td>
+                        <td>@item.Precio</td>
+                        <td class="text-wrap">
+                            <img alt="@item.Nombre" class="img-fluid img-thumbnail img-size-64" src="@item.Imagen">
+                            &nbsp;@item.Nombre
+                        </td>
+                        <td style="width: 20%;" class="text-center">
+                            <a class="btn btn-info btn-sm" asp-area="Productos" asp-page="Edit" asp-route-id="@item.Id">
+                                <i class="fas fa-pencil-alt"></i>
+                            </a>
+                            <a class="btn btn-danger btn-sm" asp-area="Productos" asp-page="Delete" asp-route-id="@item.Id">
+                                <i class="far fa-trash-alt"></i>
+                            </a>
+                        </td>
+                    </tr>
                         }
                     }
                     else

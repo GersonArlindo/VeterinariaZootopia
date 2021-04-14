@@ -22,7 +22,7 @@ namespace ApplicationCore.Entities.Validator
 
             RuleFor(x => x.Precio).NotNull().WithMessage("Precio es requerido");
 
-            RuleFor(x => x.Imagen).NotNull().WithMessage("Url de imagen es requerida");
+            //RuleFor(x => x.Imagen).NotNull().WithMessage("Url de imagen es requerida");
         }
     }
 }

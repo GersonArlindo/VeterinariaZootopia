@@ -115,6 +115,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.7.0.13, )"
+            },
             "Ardalis.Specification.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.3, )"

@@ -416,6 +416,31 @@
           "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
         }
       },
+      "AWSSDK.Core/3.7.0.12": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.0.12"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {}
+        }
+      },
+      "AWSSDK.S3/3.7.0.13": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.0.12"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.0.13"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp3.1/AWSSDK.S3.dll": {}
+        }
+      },
       "FluentValidation/9.5.3": {
         "runtime": {
           "lib/net5.0/FluentValidation.dll": {
@@ -1915,6 +1940,7 @@
       },
       "Infraestructure/1.0.0": {
         "dependencies": {
+          "AWSSDK.S3": "3.7.0.13",
           "ApplicationCore": "1.0.0",
           "Ardalis.Specification.EntityFrameworkCore": "5.0.3",
           "Microsoft.EntityFrameworkCore": "5.0.4",
@@ -3662,6 +3688,20 @@
       "sha512": "sha512-xSWoVzOipuDU4PeZcUfaZQ+xqXU8QmGv5jrdlxt3MYm9xaOmrefqcfzGQ3SQ+D+8wfBa/ZwSuL0qKOVj080inA==",
       "path": "automapper.extensions.microsoft.dependencyinjection/8.1.1",
       "hashPath": "automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512"
+    },
+    "AWSSDK.Core/3.7.0.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Pqnw8X7w1I/bYZw3+t3Qvxnw2Cz/euL39H0F4cSaS2tUI0TnIsiR7vMrNZvi/PZFfcOi6k17xCGr1jBvgj6a0w==",
+      "path": "awssdk.core/3.7.0.12",
+      "hashPath": "awssdk.core.3.7.0.12.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.7.0.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B9SsnkeJHKu9C78fkbPTHwVUNgfnfBu/ljjG+5UoRXnm5PDBDFXL6TjvNSM4ZgJVgMpFIehM4X8Wup+bxRGLZA==",
+      "path": "awssdk.s3/3.7.0.13",
+      "hashPath": "awssdk.s3.3.7.0.13.nupkg.sha512"
     },
     "FluentValidation/9.5.3": {
       "type": "package",
