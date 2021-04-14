@@ -387,12 +387,14 @@ C:\Users\Gerson Arlindo\Desktop\Proyecto_Veterinaria_PDWA\CleanArchitectureTempl
 C:\Users\Gerson Arlindo\Desktop\Proyecto_Veterinaria_PDWA\CleanArchitectureTemplate\WebApp\obj\Debug\net5.0\WebApp.TagHelpers.output.cache
 C:\Users\Gerson Arlindo\Desktop\Proyecto_Veterinaria_PDWA\CleanArchitectureTemplate\WebApp\obj\Debug\net5.0\WebApp.RazorCoreGenerate.cache
 C:\Users\Gerson Arlindo\Desktop\Proyecto_Veterinaria_PDWA\CleanArchitectureTemplate\WebApp\obj\Debug\net5.0\Razor\Areas\Productos\Pages\Create.cshtml.g.cs
+C:\Users\Gerson Arlindo\Desktop\Proyecto_Veterinaria_PDWA\CleanArchitectureTemplate\WebApp\obj\Debug\net5.0\Razor\Areas\Productos\Pages\Delete.cshtml.g.cs
 C:\Users\Gerson Arlindo\Desktop\Proyecto_Veterinaria_PDWA\CleanArchitectureTemplate\WebApp\obj\Debug\net5.0\Razor\Areas\Productos\Pages\Edit.cshtml.g.cs
 C:\Users\Gerson Arlindo\Desktop\Proyecto_Veterinaria_PDWA\CleanArchitectureTemplate\WebApp\obj\Debug\net5.0\Razor\Areas\Productos\Pages\Index.cshtml.g.cs
 C:\Users\Gerson Arlindo\Desktop\Proyecto_Veterinaria_PDWA\CleanArchitectureTemplate\WebApp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
 C:\Users\Gerson Arlindo\Desktop\Proyecto_Veterinaria_PDWA\CleanArchitectureTemplate\WebApp\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
 C:\Users\Gerson Arlindo\Desktop\Proyecto_Veterinaria_PDWA\CleanArchitectureTemplate\WebApp\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
 C:\Users\Gerson Arlindo\Desktop\Proyecto_Veterinaria_PDWA\CleanArchitectureTemplate\WebApp\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Gerson Arlindo\Desktop\Proyecto_Veterinaria_PDWA\CleanArchitectureTemplate\WebApp\obj\Debug\net5.0\Razor\Pages\Shared\_PaginationUI.cshtml.g.cs
 C:\Users\Gerson Arlindo\Desktop\Proyecto_Veterinaria_PDWA\CleanArchitectureTemplate\WebApp\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\Gerson Arlindo\Desktop\Proyecto_Veterinaria_PDWA\CleanArchitectureTemplate\WebApp\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
 C:\Users\Gerson Arlindo\Desktop\Proyecto_Veterinaria_PDWA\CleanArchitectureTemplate\WebApp\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
@@ -404,4 +406,3 @@ C:\Users\Gerson Arlindo\Desktop\Proyecto_Veterinaria_PDWA\CleanArchitectureTempl
 C:\Users\Gerson Arlindo\Desktop\Proyecto_Veterinaria_PDWA\CleanArchitectureTemplate\WebApp\obj\Debug\net5.0\ref\WebApp.dll
 C:\Users\Gerson Arlindo\Desktop\Proyecto_Veterinaria_PDWA\CleanArchitectureTemplate\WebApp\obj\Debug\net5.0\WebApp.pdb
 C:\Users\Gerson Arlindo\Desktop\Proyecto_Veterinaria_PDWA\CleanArchitectureTemplate\WebApp\obj\Debug\net5.0\WebApp.genruntimeconfig.cache
-C:\Users\Gerson Arlindo\Desktop\Proyecto_Veterinaria_PDWA\CleanArchitectureTemplate\WebApp\obj\Debug\net5.0\Razor\Areas\Productos\Pages\Delete.cshtml.g.cs
